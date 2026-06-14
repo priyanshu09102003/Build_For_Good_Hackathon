@@ -49,7 +49,7 @@ const features = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
     gradient: "linear-gradient(135deg, oklch(0.7 0.2 200), oklch(0.62 0.26 305))",
-    href: "/",
+    href: "/notes",
     cta: "Prepare Notes"
   },
 

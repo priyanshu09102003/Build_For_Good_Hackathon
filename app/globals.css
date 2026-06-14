@@ -159,7 +159,7 @@ html::-webkit-scrollbar {
   }
 }
  
-/* ─── Custom Utilities ─────────────────────────────────────────────────────── */
+/* ─── Custom Utilities */
  
 @utility text-gradient {
   background: linear-gradient(

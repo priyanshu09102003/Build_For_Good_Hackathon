@@ -23,7 +23,7 @@ const featureLinks = [
   { icon: Brain, title: "Express Lane", description: "Learning tuned to your pace", href: "#dual-mode" },
   { icon: Target, title: "Learn In Your Language", description: "Instant answers & explanations", href: "#ai-assistance" },
   { icon: Hammer, title: "Vocational Training Hub", description: "Visualize your growth", href: "#progress" },
-  { icon: StickyNote, title: "Smart Notes", description: "Visualize your growth", href: "#progress" },
+  { icon: StickyNote, title: "Smart Notes", description: "Visualize your growth", href: "/notes" },
   { icon: Library, title: "AI-Powered Digital Library", description: "Visualize your growth", href: "#progress" },
 ];
 

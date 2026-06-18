@@ -10,36 +10,36 @@ const features = [
     icon: NotebookPen,
     title: "Guided Path",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
+      "A structured learning management system built for classroom environment. Teachers assign, track, and grade, while students follow a clear path from lesson to mastery without the chaos of scattered tools.",
     gradient: "linear-gradient(135deg, oklch(0.82 0.16 200), oklch(0.72 0.22 250))",
-    href: "/",
+    href: "https://spectrum-guided.vercel.app/",
     cta: "Start Learning"
   },
   {
     icon: Brain,
     title: "Express Lane",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
+      "Tell it what you want to learn and Express Lane generates a full course around your pace and goals — no more sifting through hours of content that doesn't fit how you actually learn.",
     gradient: "linear-gradient(135deg, oklch(0.72 0.22 250), oklch(0.62 0.24 275))",
-    href: "/",
+    href: "https://express-lane-rosy.vercel.app/",
     cta: "Start Learning"
   },
   {
     icon: Target,
-    title: "Learn In Your Language",
+    title: "Vidya Vaani - Learn in your language",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
+      "Education shouldn't stop at a language barrier. Vidya Vaani delivers lessons and explanations in your own language, so understanding comes first and translation never gets in the way.",
     gradient: "linear-gradient(135deg, oklch(0.62 0.26 305), oklch(0.62 0.24 275))",
-    href: "/",
+    href: "https://vidya-vaani-nine.vercel.app/",
     cta: "Start Learning"
   },
-  {
+{
     icon: Hammer,
     title: "Vocational Training Hub",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
+      "A complete guide to mastering a trade skill — AI-generated roadmaps, an inbuilt tutor to answer questions along the way, and structured documentation covering everything you need from start to finish.",
     gradient: "linear-gradient(135deg, oklch(0.7 0.2 200), oklch(0.62 0.26 305))",
-    href: "/",
+    href: "https://spectrum-ai-vocational-documentatio.vercel.app/",
     cta: "View Documentation"
   },
 
@@ -47,7 +47,7 @@ const features = [
     icon: StickyNote,
     title: "Smart Notes",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
+      "Upload a PDF or text file, or just type a topic, and Smart Notes generates clear, diagram-rich notes you can download as a polished PDF — built for fast revision and better retention.",
     gradient: "linear-gradient(135deg, oklch(0.7 0.2 200), oklch(0.62 0.26 305))",
     href: "/notes",
     cta: "Prepare Notes"
@@ -57,9 +57,9 @@ const features = [
     icon: Library,
     title: "AI-Powered Digital Library",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore repellendus eum rem, est sunt, assumenda corporis dolorem beatae quibusdam nihil explicabo consectetur sint quaerat quae placeat iure. Delectus, suscipit quos!",
+      "A growing library of audiobooks narrated for learning on the go — listen while you commute, walk, or unwind, and turn dead time into time well spent.",
     gradient: "linear-gradient(135deg, oklch(0.7 0.2 200), oklch(0.62 0.26 305))",
-    href: "/",
+    href: "https://ai-digital-library-bice.vercel.app/",
     cta: "Explore"
   },
 ];

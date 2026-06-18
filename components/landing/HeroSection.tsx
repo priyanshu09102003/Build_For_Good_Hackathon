@@ -19,12 +19,12 @@ const floatingCards = [
 ];
 
 const featureLinks = [
-  { icon: NotebookPen, title: "Guided Path", description: "Auto-summarized study material", href: "#smart-notes" },
-  { icon: Brain, title: "Express Lane", description: "Learning tuned to your pace", href: "#dual-mode" },
-  { icon: Target, title: "Learn In Your Language", description: "Instant answers & explanations", href: "#ai-assistance" },
-  { icon: Hammer, title: "Vocational Training Hub", description: "Visualize your growth", href: "#progress" },
-  { icon: StickyNote, title: "Smart Notes", description: "Visualize your growth", href: "/notes" },
-  { icon: Library, title: "AI-Powered Digital Library", description: "Visualize your growth", href: "#progress" },
+  { icon: NotebookPen, title: "Guided Path", description: "Structured LMS for teachers and students", href: "https://spectrum-guided.vercel.app/" },
+  { icon: Brain, title: "Express Lane", description: "Learning tuned to your pace with AI course generation", href: "https://express-lane-rosy.vercel.app/" },
+  { icon: Target, title: "Vidya Vaani", description: "Learn in your own language", href: "https://vidya-vaani-nine.vercel.app/" },
+  { icon: Hammer, title: "Vocational Training Hub", description: "Skill-building for jobs that exist", href: "https://spectrum-ai-vocational-documentatio.vercel.app/" },
+  { icon: StickyNote, title: "Smart Notes", description: "Turn anything into beautiful exam notes", href: "/notes" },
+  { icon: Library, title: "AI-Powered Digital Library", description: "Audio Books that read themselves to you", href: "https://ai-digital-library-bice.vercel.app/" },
 ];
 
 export function HeroSection() {

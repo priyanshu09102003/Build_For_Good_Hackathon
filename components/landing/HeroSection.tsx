@@ -82,7 +82,7 @@ export function HeroSection() {
               className="mt-9 flex flex-wrap items-center gap-3"
             >
               <a
-                href="#cta"
+                href="#features"
                 className="btn-primary inline-flex items-center gap-2 rounded-xl px-5 py-3 text-sm font-medium"
               >
                 Get Started

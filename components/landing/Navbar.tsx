@@ -51,7 +51,7 @@ export function Navbar() {
         </ul>
 
         <a
-          href="#cta"
+          href="https://spectrum-guided.vercel.app/"
           className="btn-primary inline-flex items-center rounded-lg px-4 py-2 text-sm font-medium"
         >
           Start Learning

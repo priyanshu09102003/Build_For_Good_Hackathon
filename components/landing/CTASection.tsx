@@ -28,7 +28,7 @@ export function CTASection() {
             </p>
             <div className="mt-9 flex justify-center">
               <a
-                href="#"
+                href="https://spectrum-guided.vercel.app/"
                 className="btn-primary inline-flex items-center gap-2 rounded-xl px-6 py-3.5 text-sm font-medium"
               >
                 Start Your Learning Journey

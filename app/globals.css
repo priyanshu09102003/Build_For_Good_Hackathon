@@ -130,12 +130,12 @@ input, textarea, [contenteditable] {
   user-select: text;
 }
 
-html {
+* {
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
 
-html::-webkit-scrollbar {
+*::-webkit-scrollbar {
   display: none;
 }
  
